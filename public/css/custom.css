@@ -1,0 +1,21 @@
+body
+{
+  font-family:'Roboto';
+}
+
+#loader 
+{
+  text-align:center;
+  font-size:20px;
+  margin: auto;
+  transform: translate(0%,200%);
+  background-image: url("/img/loader.svg") ;
+  width: 120px;
+  height: 120px;
+}
+
+#content 
+{
+  display: none;
+  text-align: center;
+}

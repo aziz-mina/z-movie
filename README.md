@@ -2,11 +2,9 @@
 App Contains info about movies , shows , actors and based on MovieDB API
 
 
-**Demo:** 
+**Live Demo:** 
 
 <a href="http://z-movie.great-site.net/"> z-movie.great-site.net </a>
-
-<a href="http://zmovie.herokuapp.com/"> zmovie.herokuapp.com </a>
 
 **Languages and Technologies used:**  
 

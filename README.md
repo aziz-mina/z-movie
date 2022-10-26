@@ -34,6 +34,3 @@ App Contains info about movies , shows , actors and based on MovieDB API
 <img src="https://i.imgur.com/bNLMf6k.jpg" width="300px"> 
 
 <img src="https://i.imgur.com/CL5PQK4.jpg" width="300px"> 
-
-<img src="https://i.imgur.com/QTmdlpL.jpg" width="300px"> 
-
